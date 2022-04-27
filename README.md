@@ -24,6 +24,8 @@ O arquivo singleton.js é responsável por criar uma conexão com o banco de dad
 yarn run:singleton
 ```
 
-Alunos:
-Marcos Andrade: 1822241
-Michel Silva: 2112094
+### Alunos:
+
+#### Marcos Andrade: 1822241
+
+#### Michel Silva: 2112094
