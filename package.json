@@ -1,0 +1,12 @@
+{
+    "name": "arquitetura-software-padrao-projeto",
+    "version": "1.0.0",
+    "description": "Projeto de exemplos de padrões de projeto de software",
+    "main": "index.js",
+    "scripts": {
+        "run:factory": "node ./src/factory/index.js",
+        "run:singleton": "node ./src/singleton/index.js"
+    },
+    "keywords": [],
+    "license": "ISC"
+}
